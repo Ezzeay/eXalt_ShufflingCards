@@ -43,7 +43,7 @@ function renderHistory() {
         return;
     }
 
-    const recentCards = state.drawn.slice(-5).reverse();
+    const recentCards = [...state.drawn].reverse();
 
     recentCards.forEach((option) => {
         const item = document.createElement("li");
