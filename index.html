@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tirage de cartes eXalt</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <main class="shuffle-page">
+        <section class="shuffle-panel card">
+            <header class="shuffle-header">
+                <img src="exalt_logo.png" alt="eXalt Logo" class="exalt-logo" style="max-width: 120px; display: block; margin: 0 auto 16px auto;" />
+                <h1>Tirage de cartes eXalt</h1>
+                <p>Mélangez vos cartes d'option et tirez-en une au hasard.</p>
+            </header>
+
+            <div class="shuffle-controls">
+                <button id="shuffleBtn" class="confirm-btn" type="button">Mélanger les options</button>
+                <button id="drawBtn" class="login-btn" type="button">Tirer une option</button>
+            </div>
+
+            <div class="deck-meta">
+                <div class="meta-pill">
+                    <span>Restantes</span>
+                    <strong id="remainingCount">0</strong>
+                </div>
+                <div class="meta-pill">
+                    <span>Tirées</span>
+                    <strong id="drawnCount">0</strong>
+                </div>
+            </div>
+
+            <article id="drawnCard" class="drawn-card is-empty" aria-live="polite">
+                <p class="placeholder">Appuyez sur <strong>Tirer une option</strong> pour en révéler une.</p>
+            </article>
+
+            <p id="statusText" class="status-text">Chargement des options…</p>
+
+            <section class="draw-history-wrap" aria-label="Dernières options tirées">
+                <h2>Options récentes</h2>
+                <ul id="drawHistory" class="draw-history"></ul>
+            </section>
+        </section>
+    </main>
+
+    <script type="module" src="app.js"></script>
+</body>
+</html>

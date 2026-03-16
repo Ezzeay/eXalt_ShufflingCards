@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Candidat indisponible",
+    "description": "Le candidat n'est pas disponible à la date souhaitée par le client.",
+    "tag": "Disponibilité"
+  },
+  {
+    "title": "Prétentions salariales élevées",
+    "description": "Le candidat a des prétentions salariales décorrélées du salaire de consultant avec un niveau d'expérience et de compétence équivalent.",
+    "tag": "Rémunération"
+  },
+  {
+    "title": "Compétences obsolètes",
+    "description": "Les compétences du candidat ne sont plus en adéquation avec le marché, avec besoin de montée en compétences.",
+    "tag": "Compétences"
+  },
+  {
+    "title": "Exigence 4 jours TT",
+    "description": "Le candidat veut absolument 4 jours de télétravail.",
+    "tag": "Télétravail"
+  },
+  {
+    "title": "Absence en entretien",
+    "description": "Le candidat ne se présente pas en entretien.",
+    "tag": "Fiabilité"
+  },
+  {
+    "title": "Attitude hautaine",
+    "description": "Le candidat est hautain et n'a rien retenu de son premier entretien.",
+    "tag": "Posture"
+  },
+  {
+    "title": "Renégociation d'offre",
+    "description": "Le candidat a plusieurs propositions et renégocie.",
+    "tag": "Négociation"
+  },
+  {
+    "title": "Refus non accepté",
+    "description": "Je dis non à un candidat pour manque de compétences mais il insiste.",
+    "tag": "Gestion candidat"
+  },
+  {
+    "title": "Conflit de staffing interne",
+    "description": "J'ai trouvé un super top candidat mais plusieurs consultants disponibles ont le même profil.",
+    "tag": "Arbitrage staffing"
+  },
+  {
+    "title": "Mission fermée",
+    "description": "La mission sur laquelle je voulais recruter mon candidat vient de se fermer.",
+    "tag": "Perte d'opportunité"
+  },
+  {
+    "title": "Sortie de mission imminente",
+    "description": "Un client m'appelle et me dit que le consultant sort de mission dans 3 semaines.",
+    "tag": "Anticipation staffing"
+  },
+  {
+    "title": "Client silencieux après AO",
+    "description": "Le client fait le mort suite à une soutenance ou une réponse AO, malgré 2 relances en une semaine.",
+    "tag": "Relance client"
+  },
+  {
+    "title": "Cold call décisif",
+    "description": "Cold calling : j'arrive enfin à avoir quelqu'un et je dois le convaincre de me donner rendez-vous.",
+    "tag": "Prospection"
+  },
+  {
+    "title": "Faux pas en soutenance",
+    "description": "Un collaborateur fait un gros faux pas en soutenance (ex: \"je n'aime pas du tout JIRA\" alors que c'est l'outil principal du client).",
+    "tag": "Communication client"
+  },
+  {
+    "title": "Tarif achats trop bas",
+    "description": "Les achats me proposent un tarif beaucoup trop bas et je dois négocier.",
+    "tag": "Négociation tarifaire"
+  },
+  {
+    "title": "Soutenance non retenue",
+    "description": "Le consultant n'est pas retenu après sa soutenance.",
+    "tag": "Rejet client"
+  },
+  {
+    "title": "Exigence de séniorité",
+    "description": "Le client veut absolument un profil plus senior alors que le consultant en place fait bien le travail.",
+    "tag": "Séniorité"
+  },
+  {
+    "title": "Prolongation avec baisse TJM",
+    "description": "Le client veut prolonger la mission mais à un TJM inférieur.",
+    "tag": "TJM"
+  },
+  {
+    "title": "Tentative de débauchage",
+    "description": "Le client veut recruter directement mon consultant.",
+    "tag": "Rétention"
+  },
+  {
+    "title": "Désistement de dernière minute",
+    "description": "Le consultant m'appelle le vendredi pour me dire qu'il n'ira pas en mission le lundi suivant.",
+    "tag": "Urgence staffing"
+  },
+  {
+    "title": "Remarques sexistes",
+    "description": "Une consultante me dit que son client fait des remarques sexistes.",
+    "tag": "Risque RH"
+  },
+  {
+    "title": "Refus de missions en intercontrat",
+    "description": "Un consultant en intercontrat refuse plusieurs missions d'affilée alors qu'elles semblent lui correspondre.",
+    "tag": "Intercontrat"
+  },
+  {
+    "title": "Comportement inadéquat",
+    "description": "Un client m'appelle et me dit que le consultant a une tenue ou un comportement inadéquat.",
+    "tag": "Comportement"
+  },
+  {
+    "title": "Intercontrat prolongé",
+    "description": "Mon consultant est en intercontrat depuis plusieurs semaines et s'ennuie.",
+    "tag": "Motivation"
+  },
+  {
+    "title": "Sollicitation le weekend",
+    "description": "Mon consultant me sollicite le weekend.",
+    "tag": "Cadre pro"
+  },
+  {
+    "title": "Soucis personnels impactants",
+    "description": "Mon consultant a des soucis personnels qui impactent sa mission.",
+    "tag": "Accompagnement"
+  },
+  {
+    "title": "Demande d'augmentation forte",
+    "description": "Mon consultant, très performant, demande une forte augmentation sinon il part.",
+    "tag": "Rémunération"
+  },
+  {
+    "title": "Volonté de quitter la mission",
+    "description": "Mon consultant veut quitter la mission alors que le client est satisfait.",
+    "tag": "Engagement"
+  },
+  {
+    "title": "Sentiment de sous-positionnement",
+    "description": "Mon consultant estime faire le travail d'un profil plus senior.",
+    "tag": "Évolution"
+  },
+  {
+    "title": "Refus pour l'Exaltemps",
+    "description": "Le client refuse de libérer mon consultant pour l'Exaltemps.",
+    "tag": "Disponibilité interne"
+  },
+  {
+    "title": "Consultant mis à l'écart",
+    "description": "Mon consultant dit être mis à l'écart par l'équipe client.",
+    "tag": "Intégration client"
+  }
+]
