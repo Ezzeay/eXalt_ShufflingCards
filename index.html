@@ -35,6 +35,16 @@
                 <p class="placeholder">Appuyez sur <strong>Tirer une option</strong> pour en révéler une.</p>
             </article>
 
+            <div class="answer-actions">
+                <button id="showAnswerBtn" class="confirm-btn" type="button" disabled>Afficher la réponse</button>
+                <div id="presenterHintWrap" class="presenter-hint-wrap is-disabled">
+                    <button id="presenterAnswerBtn" class="presenter-btn" type="button" disabled aria-describedby="presenterTooltip">Aide</button>
+                    <div id="presenterTooltip" class="presenter-tooltip" role="tooltip" aria-hidden="true"></div>
+                </div>
+            </div>
+
+            <section id="answerPanel" class="answer-panel is-hidden" aria-live="polite"></section>
+
             <p id="statusText" class="status-text">Chargement des options…</p>
 
             <section class="draw-history-wrap" aria-label="Dernières options tirées">

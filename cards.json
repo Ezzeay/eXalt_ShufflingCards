@@ -2,156 +2,187 @@
   {
     "title": "Candidat indisponible",
     "description": "Le candidat n'est pas disponible à la date souhaitée par le client.",
-    "tag": "Disponibilité"
+    "tag": "Disponibilité",
+    "idealReaction": "1/anticiper (en principe le client est déjà au courant).\n1/ négocie avec le client (mi chemin- insiste sur les qualités du consultant et précisons que le fit pro et perso est très important)\n2/ négocie avec le consultant \n3/ Trouve une autre solution"
   },
   {
     "title": "Prétentions salariales élevées",
     "description": "Le candidat a des prétentions salariales décorrélées du salaire de consultant avec un niveau d'expérience et de compétence équivalent.",
-    "tag": "Rémunération"
+    "tag": "Rémunération",
+    "idealReaction": "1/ etre transparent depuis le début (1er appel de qualification)\n2/ rappeler les éléments de prime et promouvoir le package eXalt pour qu'il se projette sur des primes\n3/ si le candidat est formel : impossibilité de travailler ensemble"
   },
   {
     "title": "Compétences obsolètes",
     "description": "Les compétences du candidat ne sont plus en adéquation avec le marché, avec besoin de montée en compétences.",
-    "tag": "Compétences"
+    "tag": "Compétences",
+    "idealReaction": "1/Prévoir un entretien avec un consultant sénior pour évaluer son niveau \n2/ on se pose la questiond e savoir si cette lacune est déterminante \n3/ voir des formations efficaces et rapides pour acquérir un niveau de compétence minimum existent\nAttention: il faut réussir à savori si un client peut se projetter avec un candidat qui doit encore monter en compétences\nCe qui sera déterminant : la qualité du profil sur des aspects hard skills (clients similaires, capacité à monter en compétences, compétences déjà acquises) et soft skills (motivation +++, posture de consultant, envie de s'investir chez eXalt, super feeling...)"
   },
   {
     "title": "Exigence 4 jours TT",
     "description": "Le candidat veut absolument 4 jours de télétravail.",
-    "tag": "Télétravail"
+    "tag": "Télétravail",
+    "idealReaction": "1/ expliquer le fonctionnement eXalt (AT: on ne peut pas s'engager sur une localisation de mission, ni sur un rythme de TT)\n2/ Même si candidat ULTRA PEPITASSE : NO GO si trop ferme sur ces éléments parce que le risque est trop important"
   },
   {
     "title": "Absence en entretien",
     "description": "Le candidat ne se présente pas en entretien.",
-    "tag": "Fiabilité"
+    "tag": "Fiabilité",
+    "idealReaction": "1/ Appel pour comprendre \n2/ Evaluer les raisons et ses justifications\n3/ prendre une décision : NOGO ou repositionner un entretien"
   },
   {
     "title": "Attitude hautaine",
     "description": "Le candidat est hautain et n'a rien retenu de son premier entretien.",
-    "tag": "Posture"
+    "tag": "Posture",
+    "idealReaction": "NOGO // Fin du game"
   },
   {
     "title": "Renégociation d'offre",
     "description": "Le candidat a plusieurs propositions et renégocie.",
-    "tag": "Négociation"
+    "tag": "Négociation",
+    "idealReaction": "1/ Savoir le gap entre les différentes propositions / connaitre ses motivations \n2/ évaluer la cohérence de la demande avec les autres salaires de l'entreprises\n3/ Débat / décision en équipe DSM pour prendre une decision : accepter le renégo / ne pas accepter"
   },
   {
     "title": "Refus non accepté",
     "description": "Je dis non à un candidat pour manque de compétences mais il insiste.",
-    "tag": "Gestion candidat"
+    "tag": "Gestion candidat",
+    "idealReaction": "Rester ferme sur ses positions :\n- rééxpliquer  les raisons du refus vis à vis de l'employabilité (environnement de travail, secteur d'activité, ampleur des projets...)\n- donner des conseils au candidat pour ses autres candidatures et donner des pistes (le but est de rassurer)"
   },
   {
     "title": "Conflit de staffing interne",
     "description": "J'ai trouvé un super top candidat mais plusieurs consultants disponibles ont le même profil.",
-    "tag": "Arbitrage staffing"
+    "tag": "Arbitrage staffing",
+    "idealReaction": "1/Etre transparent sur la situation du cabinet et les raisons qui nous empechent d'avancer (on privilégie les collaborateurs internes)\n2/ Remercier // Féliciter // valoriser\n3/ Rappeler qq mois + tard le candidat pour voir si tjs de l'interet commun et si dispo "
   },
   {
     "title": "Mission fermée",
     "description": "La mission sur laquelle je voulais recruter mon candidat vient de se fermer.",
-    "tag": "Perte d'opportunité"
+    "tag": "Perte d'opportunité",
+    "idealReaction": "1/ etre transparent \n2/ Le rassurer sur ses compétences et remercier pour son temps\n3/ Rebondir / chercher un autre sujet --> lui dire que ça ne met pas en danger son recrutement chez eXalt"
   },
   {
     "title": "Sortie de mission imminente",
     "description": "Un client m'appelle et me dit que le consultant sort de mission dans 3 semaines.",
-    "tag": "Anticipation staffing"
+    "tag": "Anticipation staffing",
+    "idealReaction": "1/ Au cours de la discussion : comprendre pourquoi. S'il s'agit de compétences : proposer un accompagnement par eXalt, si c'est budgétaire : évaluer la possibilité de baisser les honoraires. \n2/ Informer le consultant et lui donner de la visibilité sur la suite \n3/ Lui chercher une nouvelle mission / préparer son IC"
   },
   {
     "title": "Client silencieux après AO",
     "description": "Le client fait le mort suite à une soutenance ou une réponse AO, malgré 2 relances en une semaine.",
-    "tag": "Relance client"
+    "tag": "Relance client",
+    "idealReaction": "1/ Contacter les consultants sur place pour avoir de la visibilité sur l'agneda client et l'appeler au bon moment\n2/Si un consultant déjà sur site, et qu'il a une bonne relation avec le client, lui demander d'aller le voir et demander des news\n3/ Aller directement sur site pour le rencontrer (vérifier ses jours de présence)"
   },
   {
     "title": "Cold call décisif",
     "description": "Cold calling : j'arrive enfin à avoir quelqu'un et je dois le convaincre de me donner rendez-vous.",
-    "tag": "Prospection"
+    "tag": "Prospection",
+    "idealReaction": "Préparer son appel : connaitre le prospect, son role, ses respos, les métiers qu'il adresse pour faire le lien avec eXalt \n1/ contexte à mon appel (nos activités en relation avec son poste)\n2/ name drop\n3/ demander un créneau concret (30 mn) pour un RDV dont on aura expliqué l'interet \nFaire en sorte de l'accrocher"
   },
   {
     "title": "Faux pas en soutenance",
     "description": "Un collaborateur fait un gros faux pas en soutenance (ex: \"je n'aime pas du tout JIRA\" alors que c'est l'outil principal du client).",
-    "tag": "Communication client"
+    "tag": "Communication client",
+    "idealReaction": "1/ Réagir immédiatement pendant la soutenance - rediluer le propos et le faire changer de discours \n2/ Débriefer à chaud avec le client et en parler tout de suite et rassurer sur les compétences du consultant \n3/ Débriefer avec le consultant à l'issu des calls et lui redemander si le sujet est vraiment bloquant et connaitre sa position finale vis à vis du sujet\n4/ Rappeler la posture du consultant et la force du disocurs --> il faut savoir nuancer surtout si la mission lui plait"
   },
   {
     "title": "Tarif achats trop bas",
     "description": "Les achats me proposent un tarif beaucoup trop bas et je dois négocier.",
-    "tag": "Négociation tarifaire"
+    "tag": "Négociation tarifaire",
+    "idealReaction": "1/ En principe on a anticipé: on a annoncé un TJ cohérent avec les grilles achats négociées en amont \n2/ appeler les achats pour comprendre et remettre en perspective \n3/ évaluer le Gap et négocier un effort commun / terrain d'entente\n4/ Si ca ne le fait pas: demander au client d'intervenir auprès des achats pour appuyer le consultant\n5/ si ca ne le fait pas : trouver un back up"
   },
   {
     "title": "Soutenance non retenue",
     "description": "Le consultant n'est pas retenu après sa soutenance.",
-    "tag": "Rejet client"
+    "tag": "Rejet client",
+    "idealReaction": "1/ A l'issu du call client qui nous dit non: obtenir un créneau de ppe pour une 2eme soutenance\nAppeler le consultant non retenu pour lui donner de la visibilité\n2/ En parler aux IC et pipe d'arrivées consultant \n3/ Si personne : sourcer et être très rapide dans les entretiens"
   },
   {
     "title": "Exigence de séniorité",
     "description": "Le client veut absolument un profil plus senior alors que le consultant en place fait bien le travail.",
-    "tag": "Séniorité"
+    "tag": "Séniorité",
+    "idealReaction": "1. Creuser la demande du client : manque de crédibilité, besoin politique, manque d'expérience perçu ? \n2. Mettre en avant les réalisations concrètes du consultant (résultats, feedbacks, livrables). \n3. Proposer une solution intermédiaire : mentoring par un senior, intervention ponctuelle d’un expert pour un atelier ou autre. \n4. Si la demande est ferme : préparer la sortie du consultant en sécurisant sa prochaine mission avant d’en informer le client et négocier une date de sortie "
   },
   {
     "title": "Prolongation avec baisse TJM",
     "description": "Le client veut prolonger la mission mais à un TJM inférieur.",
-    "tag": "TJM"
+    "tag": "TJM",
+    "idealReaction": "1. Comprendre la raison réelle : pression achats, baisse de budget, remise en question du consultant. \n2. Revaloriser la valeur produite : rappeler les résultats et la continuité de mission. \n3. Négocier un compromis : baisse limitée, ajustement du périmètre, prolongation plus courte. \n4. Si l’écart est trop important : refuser la baisse et proposer un autre consultant plus junior ou arrêter la mission."
   },
   {
     "title": "Tentative de débauchage",
     "description": "Le client veut recruter directement mon consultant.",
-    "tag": "Rétention"
+    "tag": "Rétention",
+    "idealReaction": "1. Vérifier les clauses contractuelles \n2. Discuter ouvertement avec le consultant pour comprendre ses motivations. \n3. Évaluer si une évolution interne est possible pour le retenir. \n4. Si le départ est inévitable : négocier les conditions de sortie avec le client (contrepartie possible - placer un ou plusieurs consultants) et maintenir une relation positive."
   },
   {
     "title": "Désistement de dernière minute",
     "description": "Le consultant m'appelle le vendredi pour me dire qu'il n'ira pas en mission le lundi suivant.",
-    "tag": "Urgence staffing"
+    "tag": "Urgence staffing",
+    "idealReaction": "1/ Comprendre le consultant et ses raisons :\n- pratique (trajet/enfants/ TT etc...) : on va essayer de trouver une solution\n- intéret pour la mission : rappeler que le sujet était connu, rappeler les engagements, et remettre l'accent sur les points positifs de sa mission et les raisons qui l'ont motivées initialement\n--> le but est de dire au consultant qu'il n'est pas possible de sortir de mission contractuellement du jour au lendemain, qu'un effort est encore à faire jusqu'à ce que l'on puisse le sortir de sa mission\n2/si le consultant refuse catégoriquement:  Appeler les RH et prendre les décisions qui s'imposent\n3/ Anticiper et chercher si nous avons un back up\n4/ appeler le client pour le prévenir -"
   },
   {
     "title": "Remarques sexistes",
     "description": "Une consultante me dit que son client fait des remarques sexistes.",
-    "tag": "Risque RH"
+    "tag": "Risque RH",
+    "idealReaction": "1/ Creuser avec le consultant et avoir du contexte/ elements concrets \n2/ voir si d'autres consultants de la même équipe ont remarqué aussi \n3/ Rassurer le consultant sur le fait que l'on va prendre en charge le sujet\n4/ Appeler les RH \n5/ prendre un rdv avec le client"
   },
   {
     "title": "Refus de missions en intercontrat",
     "description": "Un consultant en intercontrat refuse plusieurs missions d'affilée alors qu'elles semblent lui correspondre.",
-    "tag": "Intercontrat"
+    "tag": "Intercontrat",
+    "idealReaction": "1/ Comprendre pourquoi ça ne convient pas \n2/ Réinsister sur l'engagement auprès du cabinet et sur les termes du contrat (que nos poles d'activités sont sur différents sites, que les métiers sont connus d'avance, les secteurs d'activité aussi...)\n3/ Rappeler que ce qui est dit sur un AO, en soutenance etc... ne sont pas toujours le reflet de la réalité et que c'est à lui(elle) de construire sa mission "
   },
   {
     "title": "Comportement inadéquat",
     "description": "Un client m'appelle et me dit que le consultant a une tenue ou un comportement inadéquat.",
-    "tag": "Comportement"
+    "tag": "Comportement",
+    "idealReaction": "1/ Comprendre ce qui cloche, avoir des infos concrètes (tenue, hygiène, discours, ponctualité...)\n2/ Aller voir le consultant et lui donner des infos et lui demander de rectifier le tir \n3/ Le rassurer sur le fait que ca ne remet pas son travail en cause / que ca n'est que de la forme, MAIS rappeler que la forme amène le fond"
   },
   {
     "title": "Intercontrat prolongé",
     "description": "Mon consultant est en intercontrat depuis plusieurs semaines et s'ennuie.",
-    "tag": "Motivation"
+    "tag": "Motivation",
+    "idealReaction": "1/ Mettre en place des points de suivi hebdo et interroger sur les sujets d'intéret du consultant\n2/ Rappeler tous les opportunités du framework : formation, création de contenu, rôles, bénévolat (Vendredi) \n3/ Faire des propositions : organiser un évènements, un REX, un atelier ... et inciter à prendre contact avec les interlocuteurs (booster et Léa) "
   },
   {
     "title": "Sollicitation le weekend",
     "description": "Mon consultant me sollicite le weekend.",
-    "tag": "Cadre pro"
+    "tag": "Cadre pro",
+    "idealReaction": "1/ Répondre si urgent\n2/ Si les sollicitations deviennent trop importantes, encourager à nous contacter la semaine "
   },
   {
     "title": "Soucis personnels impactants",
     "description": "Mon consultant a des soucis personnels qui impactent sa mission.",
-    "tag": "Accompagnement"
+    "tag": "Accompagnement",
+    "idealReaction": "1/ Comprendre les raisons du blocage sans être intrusif : déplacement, horaires, santé ... et interroger le consultant sur les solutions qui lui conviendrait pour continuer sa mission\n2/ Appeler les RH pour connaitre les process et règles \n3/ Expliquer le contexte au client et proposer une solution adaptée qui ne met pas la réussite de la mission en péril \n4/ Prévoir des points de suivi + régulièrement avec le consultant et client (tous les mois min), pour éviter une dégradation de la situation "
   },
   {
     "title": "Demande d'augmentation forte",
     "description": "Mon consultant, très performant, demande une forte augmentation sinon il part.",
-    "tag": "Rémunération"
+    "tag": "Rémunération",
+    "idealReaction": "1. Comprendre ses motivations (argent, reconnaissance, évolution). \n2. Comparer son salaire avec le marché et les grilles internes. \n3. Explorer des alternatives : augmentation progressive, bonus, nouvelle mission plus valorisante. \n4. Prendre la décision en coordination avec la direction et RH"
   },
   {
     "title": "Volonté de quitter la mission",
     "description": "Mon consultant veut quitter la mission alors que le client est satisfait.",
-    "tag": "Engagement"
+    "tag": "Engagement",
+    "idealReaction": "1. Comprendre précisément les raisons (fatigue, manque d’intérêt, relation client). \n2. Voir si des ajustements sont possibles dans la mission (périmètre, organisation). \n3. Rappeler les engagements pris vis-à-vis du client. \n4. Si le départ est confirmé : organiser une transition propre avec le client (passation)"
   },
   {
     "title": "Sentiment de sous-positionnement",
     "description": "Mon consultant estime faire le travail d'un profil plus senior.",
-    "tag": "Évolution"
+    "tag": "Évolution",
+    "idealReaction": "1. Vérifier la réalité avec le client : responsabilités réellement exercées. \n2. Valoriser cette prise d’initiative auprès du client. \n3. Étudier une évolution : montée en grade, revalorisation salariale, mission plus senior. \n4. Donner de la visibilité au consultant sur son évolution possible."
   },
   {
     "title": "Refus pour l'Exaltemps",
     "description": "Le client refuse de libérer mon consultant pour l'Exaltemps.",
-    "tag": "Disponibilité interne"
+    "tag": "Disponibilité interne",
+    "idealReaction": "1. Comprendre la contrainte réelle côté client : deadline projet, réunion importante, manque de ressource, etc.\n2. Rappeler l'intérêt pour le client en mettant en avant les avantages à participer à ce type d'ateliers, notamment sur l'apport de valeur\n3. Proposer un compromis (Participation à distance, libérer sur la moitié du créneau\n4. Impliquer le consultant si il a une bonne relation avec le client\n5. Anticiper encore plus auprès du client pour les prochains exaltemps\n6, Accepter la décision client si il n'y a rien d'autre à faire"
   },
   {
     "title": "Consultant mis à l'écart",
     "description": "Mon consultant dit être mis à l'écart par l'équipe client.",
-    "tag": "Intégration client"
+    "tag": "Intégration client",
+    "idealReaction": "1. Demander des exemples précis de situations. \n2. Contacter le client pour comprendre la perception côté équipe. \n3. Identifier si le problème est relationnel, organisationnel ou politique.\n 4. Proposer une solution : repositionnement dans l’équipe, clarification du rôle ou changement de mission."
   }
 ]
